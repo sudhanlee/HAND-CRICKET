@@ -1,7 +1,5 @@
-#This game was developed by sudhanlee
-#Thank you for playing this game
-#If you have any problem contact us through github 'C-YBERBOT'
-#THANKYOU
+#!/usr/bin/env python3
+
 import random
 import time as t
 
