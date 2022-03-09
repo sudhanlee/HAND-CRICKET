@@ -1,4 +1,4 @@
-#This game was developed by SURIYANANDAN AND RAMSUDHAN
+#This game was developed by sudhanlee
 #Thank you for playing this game
 #If you have any problem contact us through github 'C-YBERBOT'
 #THANKYOU
